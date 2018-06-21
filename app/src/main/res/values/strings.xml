@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidEspressoTest</string>
+    <string name="next">Next</string>
+    <string name="hello_textview">hello textview</string>
 </resources>
